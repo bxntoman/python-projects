@@ -1,2 +1,2 @@
 # python-projects
- Small projects coded in Python
+This repository includes all of the simple projects that I have developed using Python.
