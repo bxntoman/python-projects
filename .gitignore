@@ -1,0 +1,6 @@
+#macOS
+.DS_store   
+
+#executables 
+*.json
+*.exe
